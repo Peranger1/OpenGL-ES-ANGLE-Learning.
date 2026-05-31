@@ -1,0 +1,33 @@
+# 第三方源码仓库：按 notes 中的命令自行拉取
+repos/
+
+# 本机构建和安装产物
+#install/
+
+# Visual Studio 临时文件
+.vs/
+**/.vs/
+**/x64/
+**/Debug/
+**/Release/
+**/*.user
+**/*.suo
+**/*.VC.db
+**/*.opendb
+**/*.ilk
+**/*.pdb
+**/*.obj
+**/*.exe
+**/*.dll
+**/*.lib
+**/*.tlog
+**/*.recipe
+
+# CMake 生成目录
+**/build/
+CMakeCache.txt
+CMakeFiles/
+
+# 系统文件
+.DS_Store
+Thumbs.db
