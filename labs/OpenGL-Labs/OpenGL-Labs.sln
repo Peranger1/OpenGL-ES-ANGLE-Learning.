@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-glfw-gles3-triangle", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-indexed-rectangle", "02-indexed-rectangle\02-indexed-rectangle.vcxproj", "{0046F83F-03A0-441F-8E98-336C3B12718A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-unitform-transform", "03-unitform-transform\03-unitform-transform.vcxproj", "{99972E24-FCF3-49E6-B8C0-2F605442A78D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-uniform-transform", "03-uniform-transform\03-uniform-transform.vcxproj", "{99972E24-FCF3-49E6-B8C0-2F605442A78D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-texture", "04-texture\04-texture.vcxproj", "{988390A1-F8AD-4D03-B487-EE3ACCB73C22}"
 EndProject

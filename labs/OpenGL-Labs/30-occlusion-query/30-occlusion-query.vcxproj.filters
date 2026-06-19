@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="30-occlusion-query..cpp">
+    <ClCompile Include="30-occlusion-query.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
